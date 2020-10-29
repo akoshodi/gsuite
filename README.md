@@ -16,6 +16,8 @@ you'd like to check that out.
 **_Warning: under active development, use at your own risk. A version will be
 tagged when ready for testing._**
 
+**_UPDATE: This package development has been paused, I would love to continue to build this package, but no longer have a GSuite account and using a personal account was to pricey. I may pick this back up if I can get either a work sponsored GSuite account, or some form of GSuite Dev credits.**
+
 ## Installation
 
 You can install the package via composer:
